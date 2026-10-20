@@ -1,9 +1,11 @@
 # 💫 About Me:
-Problem-solver at heart and final-year Computer Science student.<br>Aspiring backend/software engineer focused on writing clean, efficient, and scalable code.<br>Interested in DSA, backend systems, and real-world engineering challenges.
+Problem-solver at heart and backend/software engineer focused on writing clean, efficient, and scalable code.<br>Interested in DSA, backend systems, and real-world engineering challenges.
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/junayedalikhan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jjunayedalikhan@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/junayedalikhan)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/JunayedAliKhan1)   
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jjunayedalikhan@gmail.com) 
 
 # 💻 Tech Stack
 
@@ -18,14 +20,13 @@ Problem-solver at heart and final-year Computer Science student.<br>Aspiring bac
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+[![SQL](https://img.shields.io/badge/SQL-083FA8?style=for-the-badge&logo=sql&logoColor=white)](https://www.sql.org/)
 ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
 ### 🖌 Frontend / UI
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
